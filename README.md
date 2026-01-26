@@ -1,4 +1,3 @@
-
 ![banner](/assets/background1.jpg)
 
 
@@ -6,9 +5,6 @@
 I'm Zaid, a Computer Science undergrad student with a background in Cyber Security and Deep Learning 
 - Currently, I work at ADNOC HQ in the AI/Cybersecurity space
 - Profound interest in building projects and products that 'stick'
-
-## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=404-dev-notfound&show_icons=true&theme=vue)
 
 
 ## 📚 Recent Learning Projects
@@ -22,8 +18,9 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **Intern**         | **ODeX Technologies**                | **AI/ML**       | **2025-08 — now** |
-| Intern         | Undercore Cybersecurity                | Network Analysis Prototype       | 2024-06 — 2024-08 |
+| **Intern**         | **ADNOC HQ**                | **AI/CyberSecurity**       | **2026-08 — now** |
+| Intern         | Flamingus 
+Technologies                | Network Analysis Prototype       | 2024-06 — 2024-08 |
 
 
 ## 🎓 Educations

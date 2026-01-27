@@ -25,7 +25,7 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 ## 🎓 Educations
 - Bachelor's Degree @ Birla Institute of Technology Pilani, Dubai (2022 - 2026)
 
-- High School Degree @ Apeejay School, Noida (2020 - 2022)
+- School @ Chettinad Vidyashram, Chennai (2008 - 2022)
 
 
 ## 🛠 Technologies I Use  
@@ -34,7 +34,6 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 ![](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=323330)
 ![](https://img.shields.io/badge/HTML5-ff7043?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Markdown-8e44ad?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffd43b)
 ![](https://img.shields.io/badge/Assembly-22223b?style=for-the-badge&logo=assembly&logoColor=a9e34b)

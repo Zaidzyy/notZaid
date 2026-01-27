@@ -16,10 +16,10 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 | [Pill-Pal](https://www.instagram.com/p/DG7k4LWzL-r/?img_index=1)                                                 | [Telegram](https://web.telegram.org/k/#@MedicGodBot)                                                                                |  Your AI Medication Management Assistant ChatBot                                         |       Hack-a-Bot             |
 
 ## 👔 Experience
-| Position               | Company                     | Field                         | Work Period       |
+| Position               | Company                     | Title                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
 | **Intern**         | **ADNOC HQ**                | **AI/CyberSecurity**       | **2026-01 — now** |
-| Intern             | **Flamingus Technologies**  | IT Consultant Intern       | **2024-06 — 2024-08** |
+| Intern             | **Flamingus Technologies**  | **IT Consultant Intern**      | **2024-06 — 2024-08** |
 
 
 ## 🎓 Educations

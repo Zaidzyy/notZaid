@@ -55,14 +55,13 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 ## Socials
 <p align="center">
   <a href="https://wa.me/971552872912"><img alt="WhatsApp" title="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-1DA1F2?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dev-d-483029146/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Devil20021229"><img alt="X" title="X" src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white"
-  /></a>
-  <a href="https://www.discord.gg/devil045803">
+  <a href="https://www.linkedin.com/in/mdzaid2005/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+  <a href="https://www.discord.gg/xdzaid">
     <img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://dev4member.wixsite.com/personal">
+  <a href="https://zaid-portfolio-chi.vercel.app/">
     <img alt="Website" title="Website" src="https://img.shields.io/badge/-Website-1DA1F2?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
   </a>
-  <a href="mailto:f20220319@dubai.bits-pilani.ac.in"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:f20220172@dubai.bits-pilani.ac.in"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>

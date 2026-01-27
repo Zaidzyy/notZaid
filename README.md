@@ -54,7 +54,7 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 
 ## Socials
 <p align="center">
-  <a href="https://wa.me/971552872912"><img alt="WhatsApp" title="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-1DA1F2?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+  <a href="https://wa.me/971542461358"><img alt="WhatsApp" title="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-1DA1F2?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mdzaid2005/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
   <a href="https://www.discord.gg/xdzaid">

@@ -18,9 +18,9 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **Intern**         | **ADNOC HQ**                | **AI/CyberSecurity**       | **2026-08 — now** |
+| **Intern**         | **ADNOC HQ**                | **AI/CyberSecurity**       | **2026-01 — now** |
 | Intern         | Flamingus 
-Technologies                | Network Analysis Prototype       | 2024-06 — 2024-08 |
+Technologies                | IT Consultant Intern | 2024-06 — 2024-08 |
 
 
 ## 🎓 Educations

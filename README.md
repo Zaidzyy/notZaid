@@ -7,8 +7,14 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zaidzyy/notZaid/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Zaidzyy/notZaid/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/Zaidzyy/notZaid/stats-output/stats.svg"
+       height="150"
+       alt="stats graph"
+       style="margin-right: 20px;" />
+
+  <img src="https://raw.githubusercontent.com/Zaidzyy/notZaid/languages-output/languages.svg"
+       height="150"
+       alt="languages graph" />
 </div>
 
 ###

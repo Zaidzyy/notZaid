@@ -29,7 +29,7 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 | **Intern**             | **Flamingus Technologies**  | **IT Consultant Intern**      | **06-2024 — 08-2024** |
 
 
-## 🎓 Educations
+## 🎓 Education
 - Bachelor's Degree @ Birla Institute of Technology Pilani, Dubai (2022 - 2026)
 
 - School @ Chettinad Vidyashram, Chennai (2008 - 2022)

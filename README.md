@@ -10,10 +10,8 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
   <img src="https://raw.githubusercontent.com/Zaidzyy/notZaid/stats-output/stats.svg"
        height="150"
        alt="stats graph" />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/Zaidzyy/notZaid/languages-output/languages.svg"
+  <img hspace="20"
+       src="https://raw.githubusercontent.com/Zaidzyy/notZaid/languages-output/languages.svg"
        height="150"
        alt="languages graph" />
 </div>

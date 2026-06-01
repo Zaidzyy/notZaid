@@ -86,3 +86,9 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
   </a>
   <a href="mailto:f20220172@dubai.bits-pilani.ac.in"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaidzyy/notZaid/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zaidzyy/notZaid/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zaidzyy/notZaid/pacman-output/pacman-contribution-graph.svg">
+</picture>

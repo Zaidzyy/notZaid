@@ -6,9 +6,12 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 
 
 ## 📚 Recent Learning Projects
-| Repository                                                                                | Link                                                                                                            | Description                                        | Awards |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ |
-| [Pill-Pal](https://www.instagram.com/p/DG7k4LWzL-r/?img_index=1)                                                 | [Telegram](https://web.telegram.org/k/#@MedicGodBot)                                                                                |  Your AI Medication Management Assistant ChatBot                                         |       Hack-a-Bot             |
+
+| Repository | Link | Description | Awards |
+| ---------- | ---- | ----------- | ------ |
+| [AI SOC Analyst L1](https://github.com/Zaidzyy/AI-SOC-Analyst-L1) | [GitHub](https://github.com/Zaidzyy/AI-SOC-Analyst-L1) | AI-powered SOC automation system with 73 n8n nodes that autonomously triages Wazuh alerts, enriches threat intelligence, retrieves endpoint logs, and generates incident reports. | — |
+| [SecOps-AI](https://github.com/Zaidzyy/SecOps-AI) | [GitHub](https://github.com/Zaidzyy/SecOps-AI) | Real-time AI-powered SIEM using Scapy packet capture, custom CNN threat classification, and Groq/Ollama models with a live SOC dashboard for monitoring and incident triage. | — |
+| [Pill-Pal](https://www.instagram.com/p/DG7k4LWzL-r/?img_index=1) | [Telegram](https://web.telegram.org/k/#@MedicGodBot) | Your AI Medication Management Assistant ChatBot | Hack-a-Bot |
 
 ## 👔 Experience
 | Position               | Company                     | Title                         | Work Period       |

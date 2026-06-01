@@ -23,18 +23,25 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 - School @ Chettinad Vidyashram, Chennai (2008 - 2022)
 
 
-## 🛠 Technologies I Use  
-![](https://img.shields.io/badge/-1e90ff?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=323330)
-![](https://img.shields.io/badge/HTML5-ff7043?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠 Technologies I Use
+
 ![](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffd43b)
-![](https://img.shields.io/badge/Assembly-22223b?style=for-the-badge&logo=assembly&logoColor=a9e34b)
-![](https://img.shields.io/badge/VS_Code-2867b2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Git-f05340?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+
+![](https://img.shields.io/badge/RAG-7b2cbf?style=for-the-badge&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=chainlink&logoColor=white)
+![](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white)
+![](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+![](https://img.shields.io/badge/OpenVAS-2e8b57?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![](https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![](https://img.shields.io/badge/SIEM-8a2be2?style=for-the-badge&logo=splunk&logoColor=white)
 
 
 

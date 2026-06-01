@@ -43,6 +43,12 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 ![](https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![](https://img.shields.io/badge/SIEM-8a2be2?style=for-the-badge&logo=splunk&logoColor=white)
 
+![](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/AI_Agents-6c5ce7?style=for-the-badge&logo=robotframework&logoColor=white)
+![](https://img.shields.io/badge/Cybersecurity-dc143c?style=for-the-badge&logo=hackthebox&logoColor=white)
+![](https://img.shields.io/badge/Threat_Detection-0f766e?style=for-the-badge&logo=elastic&logoColor=white)
+![](https://img.shields.io/badge/MITRE_ATT%26CK-c1121f?style=for-the-badge&logo=mitre&logoColor=white)
+
 
 
 ## Spotify

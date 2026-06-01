@@ -36,7 +36,8 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 ![](https://img.shields.io/badge/RAG-7b2cbf?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=chainlink&logoColor=white)
 ![](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white)
- &nbsp; ![](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+![](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![](https://img.shields.io/badge/OpenVAS-2e8b57?style=for-the-badge&logo=securityscorecard&logoColor=white)
 ![](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white)

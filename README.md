@@ -5,19 +5,13 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 - Profound interest in building projects and products that 'stick'
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidzyy/zaidzyy/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidzyy/zaidzyy/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zaidzyy/zaidzyy/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/zaidzyy/zaidzyy/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/zaidzyy/zaidzyy/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/zaidzyy/zaidzyy/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zaidzyy/zaidzyy/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/zaidzyy/zaidzyy/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
 
 
 ## 📚 Recent Learning Projects

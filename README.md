@@ -44,7 +44,7 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=az4veu6ucaczfdceq2axiv6x9&count=5">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uo2n5cop6usjiex2w5iv2llr64&count=5">
 </p>
 
 ## Socials

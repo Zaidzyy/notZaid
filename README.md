@@ -9,8 +9,9 @@ I'm Zaid, a Computer Science undergrad student with a background in Cyber Securi
 <div align="center">
   <img src="https://raw.githubusercontent.com/Zaidzyy/notZaid/stats-output/stats.svg"
        height="150"
-       alt="stats graph"
-       style="margin-right: 20px;" />
+       alt="stats graph" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <img src="https://raw.githubusercontent.com/Zaidzyy/notZaid/languages-output/languages.svg"
        height="150"

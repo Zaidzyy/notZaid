@@ -1,4 +1,4 @@
-![banner](/git.PNG)
+![banner](/banner.png)
 ## Howdy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 I'm Zaid, a Computer Science undergrad student with a background in Cyber Security and Artificial Intelligence
 - Currently, I work at ADNOC HQ in the AI/Cybersecurity space
